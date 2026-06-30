@@ -19,7 +19,7 @@ This project is an interactive Sales & Revenue Analysis Dashboard developed usin
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Sales_Revenue_Dashboard.png)
 
 ## 📈 Skills Demonstrated
 - Power BI
